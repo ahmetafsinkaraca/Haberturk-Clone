@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css');
+
+
+.shadow-custom {
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+  /* Özel gölge efekti */
+}
